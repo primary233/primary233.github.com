@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张三</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>xx大学xx学院</b></p>
+      <p><b>邮箱：123456789qq.com</b></p>
+      <p><b>地址：xx市xx区xx路xx号xx大学，xx楼，邮编xxx</b></p>
+    </td>
+    <td width="25%">
+      <img src="./mine.jpg" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/primary233/primary233.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 # 个人信息
 # 科研成果
 ## 期刊
@@ -35,10 +45,3 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/primary233/primary233.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
