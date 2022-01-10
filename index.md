@@ -8,7 +8,7 @@
       <p><b>地址：xx市xx区xx路xx号xx大学，xx楼，邮编xxx</b></p>
     </td>
     <td width="25%">
-      <img src="./mine.jpg" width="100%"/>
+      <img src="/Mine.jpg" width="100%"/>
     </td>
   </tr>
 </table>
