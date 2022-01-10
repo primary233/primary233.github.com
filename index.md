@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>xx大学xx学院</b></p>
-      <p><b>邮箱：123456789qq.com</b></p>
+      <h1>林定毅</h1>
+      <p><b>PhD student</b></p>
+      <p><b>东南大学电气工程学院</b></p>
+      <p><b>邮箱：lindingyi@126.com</b></p>
       <p><b>地址：xx市xx区xx路xx号xx大学，xx楼，邮编xxx</b></p>
     </td>
     <td width="25%">
