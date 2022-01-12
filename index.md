@@ -15,8 +15,10 @@
 
 # Personnal information:
 Highly self-motivated engineering master student with a great passion for research work, and individual and team-based projects’ experience. My research interest includes Photovoltaic power and Reinforcement Learning.
+
 # Education:
 Master Nanjing Normal University, Electrical Engineering Sep.2019-Jul.2022
+
 Bachelor Nanjing Normal University, Electrical Engineering Sep.2015-Jul.2019
 
 # Publications:
