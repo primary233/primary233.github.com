@@ -14,7 +14,7 @@
                 Reinforcement Learning.</p>
         </div>
         <div style="width: 25%;">
-            <img src="./1041BA21-69FA-43EB-BEA8-B313F63C0C9E.jpeg" width="100%"/>
+            <img src="./Mine.jpg" width="100%"/>
         </div>
     </div>
 
